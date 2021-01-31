@@ -18,6 +18,7 @@ Designed by the talented Martina Di Fuccia.
 | ----------- | ----------- |
 | ⌘R | Refresh stories |
 | ⌥⌘F | Search stories |
+| ⌃⌘S | Toggle sidebar |
 
 # Privacy Policy
 No data is collected, stored, processed or even shared with third-parties.
