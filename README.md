@@ -17,6 +17,11 @@ Designed by the talented Martina Di Fuccia.
 | Shortcuts | Action |
 | ----------- | ----------- |
 | ⌘R | Refresh stories |
+| ⌥⌘R | Refresh Story |
+| ⌘T | Jump to Top of Stories |
+| ⇧⌘T | Jump to Top of Story |
+| ⌘J | Jump to Selection |
+| ⌘O | Open Story (in a separate Window) |
 | ⌥⌘F | Search stories |
 | ⌃⌘S | Toggle sidebar |
 
