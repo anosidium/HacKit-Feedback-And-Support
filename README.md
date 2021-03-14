@@ -1,6 +1,8 @@
 # HacKit — hækɪt
 
-![A screenshot of HacKit](AscreenshotofHacKit.png)
+![A screenshot of HacKit in light appearance](HacKit_Light.png)
+
+![A screenshot of HacKit in dark appearance](HacKit_Dark.png)
 
 A portmanteau of Hacker News and AppKit, because it is a Cocoa app. It is a Mac first app. It is not a Catalyst or a port of an iPhone or iPad app.
 
