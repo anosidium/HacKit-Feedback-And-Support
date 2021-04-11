@@ -1,8 +1,8 @@
 # HacKit — hækɪt
 
-![A screenshot of HacKit in light appearance](HacKit_Light.png)
+<img width="1680" alt="1" src="https://user-images.githubusercontent.com/39738481/114323004-2f9a5d80-9b1b-11eb-8af9-c359934a15a2.png">
 
-![A screenshot of HacKit in dark appearance](HacKit_Dark.png)
+<img width="1680" alt="4" src="https://user-images.githubusercontent.com/39738481/114323043-480a7800-9b1b-11eb-9b04-1e8c6e8bc0a9.png">
 
 A portmanteau of Hacker News and `AppKit`, because it is a `Cocoa` app. It is a Mac first app. It is not a Catalyst or a port of an iPhone or iPad app.
 
@@ -36,11 +36,15 @@ Designed by the talented Martina Di Fuccia.
 # Keyboard Shortcut Service
 HacKit supports keyboard shortcut service. You can find it in System Preferences > Keyboard > Services > Open in HacKit.
 
-![A screenshot of HacKit in light appearance](System_Preferences.png)
+<img width="780" alt="System_Preferences" src="https://user-images.githubusercontent.com/39738481/114323103-9c155c80-9b1b-11eb-8f7d-4dc7e01f9881.png">
 
 Once you ticked it, it will appear anywhere contextually when dealing with text. You highlight a text and go to [App Name] > Services > Open in HacKit.
 
-![A screenshot of HacKit in light appearance](Services_Menu.png)
+<img width="366" alt="Services_Menu" src="https://user-images.githubusercontent.com/39738481/114323112-ab94a580-9b1b-11eb-8060-8785c402fa72.png">
+
+Here is a video.
+
+https://user-images.githubusercontent.com/39738481/114323195-147c1d80-9b1c-11eb-8799-10caa1ecf22e.mov
 
 # Privacy Policy
 No data is collected, stored, processed or even shared with third-parties.
