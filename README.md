@@ -42,7 +42,7 @@ Once you ticked it, it will appear anywhere contextually when dealing with text.
 
 <img width="366" alt="Services_Menu" src="https://user-images.githubusercontent.com/39738481/114323112-ab94a580-9b1b-11eb-8060-8785c402fa72.png">
 
-Here is a video.
+Here is a gif showing how it work.
 
 ![1234](https://user-images.githubusercontent.com/39738481/114323903-48a50d80-9b1f-11eb-8ea2-588f56b4677c.gif)
 
