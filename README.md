@@ -21,14 +21,16 @@ Designed by the talented Martina Di Fuccia.
 # Keyboard Shortcuts
 | Shortcuts | Action |
 | ----------- | ----------- |
-| ⌘R | Refresh stories |
+| ⌘O | Open Story (in a separate window) |
+| ⇧⌘O | Open Story from URL... |
+| ⌥⌘F | Search Stories |
+| ⌘J | Jump to Selection |
+| ⌃⌘S | Hide/Show Sidebar |
+| ⌘R | Refresh Stories |
 | ⌥⌘R | Refresh Story |
 | ⌘T | Jump to Top of Stories |
 | ⇧⌘T | Jump to Top of Story |
-| ⌘J | Jump to Selection |
-| ⌘O | Open Story (in a separate Window) |
-| ⌥⌘F | Search stories |
-| ⌃⌘S | Toggle sidebar |
+| ⌘0 | Main Window |
 
 # Privacy Policy
 No data is collected, stored, processed or even shared with third-parties.
