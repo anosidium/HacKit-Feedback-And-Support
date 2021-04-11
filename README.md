@@ -44,7 +44,7 @@ Once you ticked it, it will appear anywhere contextually when dealing with text.
 
 Here is a video.
 
-https://user-images.githubusercontent.com/39738481/114323195-147c1d80-9b1c-11eb-8799-10caa1ecf22e.mov
+![1234](https://user-images.githubusercontent.com/39738481/114323903-48a50d80-9b1f-11eb-8ea2-588f56b4677c.gif)
 
 # Privacy Policy
 No data is collected, stored, processed or even shared with third-parties.
