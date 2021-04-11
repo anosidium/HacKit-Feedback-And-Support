@@ -4,7 +4,7 @@
 
 ![A screenshot of HacKit in dark appearance](HacKit_Dark.png)
 
-A portmanteau of Hacker News and AppKit, because it is a Cocoa app. It is a Mac first app. It is not a Catalyst or a port of an iPhone or iPad app.
+A portmanteau of Hacker News and `AppKit`, because it is a `Cocoa` app. It is a Mac first app. It is not a Catalyst or a port of an iPhone or iPad app.
 
 It is a reader for Hacker News, so that means you can read stories and comments from the website and can search stories.
 
@@ -15,8 +15,9 @@ Designed by the talented Martina Di Fuccia.
 
 # Technical Information
 * macOS Big Sur Version 11.0+
-* Swift 5.3
 * AppKit
+* Swift 5.3
+* Version 1.9
 
 # Keyboard Shortcuts
 | Shortcuts | Action |
@@ -31,6 +32,15 @@ Designed by the talented Martina Di Fuccia.
 | ⌘T | Jump to Top of Stories |
 | ⇧⌘T | Jump to Top of Story |
 | ⌘0 | Main Window |
+
+# Keyboard Shortcut Service
+HacKit supports keyboard shortcut service. You can find it in System Preferences > Keyboard > Services > Open in HacKit.
+
+![A screenshot of HacKit in light appearance](System_Preferences.png)
+
+Once you ticked it, it will appear anywhere contextually when dealing with text. You highlight a text and go to [App Name] > Services > Open in HacKit.
+
+![A screenshot of HacKit in light appearance](Services_Menu.png)
 
 # Privacy Policy
 No data is collected, stored, processed or even shared with third-parties.
