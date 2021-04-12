@@ -37,7 +37,11 @@ Designed by the talented Martina Di Fuccia.
 
 ![5678](https://user-images.githubusercontent.com/39738481/114455428-a72bc380-9bd3-11eb-91ce-ecd5461edc4a.gif)
 
+You can drag and drop the story URL.
+
 ![4321](https://user-images.githubusercontent.com/39738481/114455437-a98e1d80-9bd3-11eb-9de4-a222f69bcf51.gif)
+
+You can also drag and drop the browser URL. Works in Mozilla Firefox too.
 
 # Keyboard Shortcut Service
 HacKit supports keyboard shortcut service. You can find it in System Preferences > Keyboard > Services > Open in HacKit.
