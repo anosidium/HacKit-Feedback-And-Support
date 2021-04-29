@@ -1,39 +1,75 @@
-# HacKit — hækɪt
+<div align="center">
+  <a href="https://apps.apple.com/gb/app/hackit/id1549557075?mt=12&amp;itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-top-left-radius: 22%; border-top-right-radius: 22%; border-bottom-right-radius: 22%; border-bottom-left-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://user-images.githubusercontent.com/39738481/114628508-dcf1aa80-9cae-11eb-98dc-a554fa80f3cd.png" alt="HacKit" style="width: 170px; height: 170px; border-top-left-radius: 22%; border-top-right-radius: 22%; border-bottom-right-radius: 22%; border-bottom-left-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+  <h1>HacKit</h1>
+  <p>A native macOS Cocoa app for reading <a href="https://news.ycombinator.com">Hacker News</a></p>
+  <p>Developed by Ammad</p>
+  <p>Made with ❤️ in London, England, UK</p>
+</div>
 
-<img width="1680" alt="1" src="https://user-images.githubusercontent.com/39738481/114323004-2f9a5d80-9b1b-11eb-8af9-c359934a15a2.png">
+# Download
 
-<img width="1680" alt="4" src="https://user-images.githubusercontent.com/39738481/114323043-480a7800-9b1b-11eb-9b04-1e8c6e8bc0a9.png">
+<a href="https://apps.apple.com/gb/app/hackit/id1549557075?mt=12&amp;itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1611187200&h=3b59f4d305e8593fb008bec3dfd268f4" alt="Download on the Mac App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 
-A portmanteau of Hacker News and `AppKit`, because it is a `Cocoa` app. It is a Mac first app. It is not a Catalyst or a port of an iPhone or iPad app.
+Requires macOS 11 Big Sur or later and natively supports Apple Silicon M1 Mac computers.
 
-It is a reader for Hacker News, so that means you can read stories and comments from the website and can search stories.
+# Synopsis
 
-HacKit was built alone by a British macOS and iOS developer during the Coronavirus pandemic. Yes, he is looking for a macOS or iOS developer job. Please consider hiring him.
+HacKit is a portmanteau of Hacker News and `AppKit` which means it is a `Cocoa` app and made exactly for the Mac. It is not a `Catalyst` app nor is it a port of an iPhone nor an iPad app. It is a Mac first app.
+
+It is a reader for <a href="https://news.ycombinator.com">Hacker News</a>, so that means you can read stories, comments and view polls from the website and can also search stories and polls.
+
+The app was developed by a British macOS and iOS developer during the Coronavirus pandemic. He started it last year in 2020. The first iteration of HacKit was developed for `macOS Catalina` and went through a number of iterations and then rebuilt completely from scratch for `macOS Big Sur`.
+
+# Features
+
+- Supports Touch Bar with customisation.
+- Customisable unified toolbar.
+- <a href="#keyboard-shortcuts">Keyboard shortcuts</a>.
+- Re-order sidebar categories by drag and drop.
+- Adjustable font size for stories list and story.
+- Supports Dark mode. Choose system appearance (automatic) or set a preferred appearance.
+- Search stories and polls from Algolia or the latest feeds from Hacker News.
+- Drag a Hacker News story link and drop it on to HacKit app icon to read the story on HacKit.
+- Choose which category HacKit opens with.
+- Customise story author badge colour.
+- Customise sidebar tint colour. Orange as a nod to the website or your chosen accent colour from System Preferences.
+- Supports multiple windows to focus on reading a story.
+- Read any Hacker News story by copying and pasting the link in HacKit by clicking, Open Story from URL... (⇧⌘O) menu option.
+- View user profiles.
+- and many more.
+
+# Screenshots
+
+<img width="1680" alt="A screenshot of HacKit in light appearance" src="https://user-images.githubusercontent.com/39738481/116617598-ef6a1600-a935-11eb-9cc0-404c484b2c17.png">
+
+<img width="1680" alt="A screenshot of HacKit in dark appearance" src="https://user-images.githubusercontent.com/39738481/116617610-f42eca00-a935-11eb-8b69-162f87e8f71b.png">
 
 # App Icon
 Designed by the talented Martina Di Fuccia.
 
 # Technical Information
-* macOS Big Sur Version 11.0+
-* AppKit
-* Swift 5.3
-* Version 1.9
+| Key | Detail |
+|--|--|
+| Platform | macOS 11 Big Sur or later  |
+| Framework | AppKit (Cocoa) |
+| Language | Swift 5.3 |
+| App Version | 1.10 |
 
 # Keyboard Shortcuts
-| Shortcuts | Action |
+| Shortcut | Action |
 | ----------- | ----------- |
-| ⌘O | Open Story (in a separate window) |
-| ⇧⌘O | Open Story from URL... |
-| ⌥⌘F | Search Stories |
-| ⌘J | Jump to Selection |
-| ⌃⌘S | Hide/Show Sidebar |
-| ⌘R | Refresh Stories |
-| ⌥⌘R | Refresh Story |
-| ⌘T | Jump to Top of Stories |
-| ⇧⌘T | Jump to Top of Story |
-| ⌘0 | Main Window |
+| ⌘O | Open the story in a separate window |
+| ⇧⌘O | Open a story from a URL |
+| ⌥⌘F | Search stories and polls |
+| ⌘J | Jump to the selected story |
+| ⌃⌘S | Hide/Show sidebar |
+| ⌘R | Refresh stories |
+| ⌥⌘R | Refresh story |
+| ⌘T | Jump to the top of the stories |
+| ⇧⌘T | Jump to the top of the story |
+| ⌘0 | Show the Main Window |
 
-# Fun Things You Can Do With HacKit
+# Drag & Drop with HacKit
 
 ![5678](https://user-images.githubusercontent.com/39738481/114455428-a72bc380-9bd3-11eb-91ce-ecd5461edc4a.gif)
 
@@ -43,16 +79,16 @@ You can drag and drop the story URL.
 
 You can also drag and drop the browser URL. Works in Mozilla Firefox too.
 
-# Keyboard Shortcut Service
-HacKit supports keyboard shortcut service. You can find it in System Preferences > Keyboard > Services > Open in HacKit.
+# Services
+HacKit supports `Services`. You can enable it in `System Preferences > Keyboard > Shortcuts > Services > Open in HacKit`.
 
-<img width="780" alt="System_Preferences" src="https://user-images.githubusercontent.com/39738481/114323103-9c155c80-9b1b-11eb-8f7d-4dc7e01f9881.png">
+![HacKit Services](https://user-images.githubusercontent.com/39738481/114905081-75537080-9e10-11eb-8dd6-3a2f9593ce18.png)
 
-Once you ticked it, it will appear anywhere contextually when dealing with text. You highlight a text and go to [App Name] > Services > Open in HacKit.
+<img width="780" alt="System Preferences Keyboard Shortcuts Settings" src="https://user-images.githubusercontent.com/39738481/115155301-2fe4ac80-a077-11eb-9a0c-283cfef4dd07.png">
 
-<img width="366" alt="Services_Menu" src="https://user-images.githubusercontent.com/39738481/114323112-ab94a580-9b1b-11eb-8060-8785c402fa72.png">
+Once you ticked it, it will appear anywhere contextually when dealing with text. You highlight the text and go to `[App Name] > Services > Open in HacKit`. You can also access the `Services` menu by right-clicking the text.
 
-Here is a gif showing how it work.
+Here is a GIF showing how it works.
 
 ![1234](https://user-images.githubusercontent.com/39738481/114323903-48a50d80-9b1f-11eb-8ea2-588f56b4677c.gif)
 
