@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://apps.apple.com/gb/app/hackit/id1549557075?mt=12&amp;itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-top-left-radius: 22%; border-top-right-radius: 22%; border-bottom-right-radius: 22%; border-bottom-left-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://user-images.githubusercontent.com/39738481/114628508-dcf1aa80-9cae-11eb-98dc-a554fa80f3cd.png" alt="HacKit" style="width: 170px; height: 170px; border-top-left-radius: 22%; border-top-right-radius: 22%; border-bottom-right-radius: 22%; border-bottom-left-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+  <a href="https://apps.apple.com/gb/app/hackit/id1549557075?mt=12&amp;itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-top-left-radius: 22%; border-top-right-radius: 22%; border-bottom-right-radius: 22%; border-bottom-left-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://user-images.githubusercontent.com/39738481/133911025-14bee5a4-6127-4916-b7c3-86e4363d0960.png" alt="HacKit" style="width: 170px; height: 170px; border-top-left-radius: 22%; border-top-right-radius: 22%; border-bottom-right-radius: 22%; border-bottom-left-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
   <h1>HacKit</h1>
   <p>A native macOS Cocoa app for reading <a href="https://news.ycombinator.com">Hacker News</a></p>
   <p>Developed by Ammad</p>
@@ -22,7 +22,7 @@ The app was developed by a British macOS and iOS developer during the Coronaviru
 
 # Features
 
-- Supports Touch Bar with customisation.
+- Supports Touch Bar with customisations.
 - Customisable unified toolbar.
 - <a href="#keyboard-shortcuts">Keyboard shortcuts</a>.
 - Re-order sidebar categories by drag and drop.
@@ -32,7 +32,8 @@ The app was developed by a British macOS and iOS developer during the Coronaviru
 - Drag a Hacker News story link and drop it on to HacKit app icon to read the story on HacKit.
 - Choose which category HacKit opens with.
 - Customise story author badge colour.
-- Customise sidebar tint colour. Orange as a nod to the website or your chosen accent colour from System Preferences.
+- Customise sidebar icons tint colour. Orange as a nod to the website or your chosen accent colour from System Preferences.
+- Coloured comments indentation.
 - Supports multiple windows to focus on reading a story.
 - Read any Hacker News story by copying and pasting the link in HacKit by clicking, Open Story from URL... (⇧⌘O) menu option.
 - View user profiles.
@@ -40,27 +41,30 @@ The app was developed by a British macOS and iOS developer during the Coronaviru
 
 # Screenshots
 
-<img width="1680" alt="A screenshot of HacKit in light appearance" src="https://user-images.githubusercontent.com/39738481/116617598-ef6a1600-a935-11eb-9cc0-404c484b2c17.png">
+<img width="1680" alt="A screenshot of HacKit in light appearance" src="https://user-images.githubusercontent.com/39738481/133911009-868575d9-116e-4fdc-946f-71128fc2e784.png">
 
-<img width="1680" alt="A screenshot of HacKit in dark appearance" src="https://user-images.githubusercontent.com/39738481/116617610-f42eca00-a935-11eb-8b69-162f87e8f71b.png">
+<img width="1680" alt="A screenshot of HacKit in dark appearance" src="https://user-images.githubusercontent.com/39738481/133911011-9f74d28c-5a94-4e0c-8e73-c97de5ca929a.png">
+
 
 # App Icon
-Designed by the talented Martina Di Fuccia.
+Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
 
 # Technical Information
 | Key | Detail |
 |--|--|
 | Platform | macOS 11 Big Sur or later  |
 | Framework | AppKit (Cocoa) |
-| Language | Swift 5.3 |
-| App Version | 1.10 |
+| Language | Swift 5.4 |
+| App Version | 2.0 |
 
 # Keyboard Shortcuts
 | Shortcut | Action |
 | ----------- | ----------- |
+| ⌥⌘N | New Main Window |
 | ⌘O | Open the story in a separate window |
 | ⇧⌘O | Open a story from a URL |
-| ⌥⌘F | Search stories and polls |
+| ⌥⌘F | Search Stories and Polls |
+| ⌥⇧⌘F | Search Stories and Polls in Current Category… |
 | ⌘J | Jump to the selected story |
 | ⌃⌘S | Hide/Show sidebar |
 | ⌘R | Refresh stories |
