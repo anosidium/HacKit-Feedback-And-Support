@@ -32,7 +32,6 @@ The app was developed by a British macOS and iOS developer during the Coronaviru
 - Drag a Hacker News story link and drop it on to HacKit app icon to read the story on HacKit.
 - Choose which category HacKit opens with.
 - Customise story author badge colour.
-- Customise sidebar icons tint colour. Orange as a nod to the website or your chosen accent colour from System Preferences.
 - Coloured comments indentation.
 - Supports multiple windows to focus on reading a story.
 - Read any Hacker News story by copying and pasting the link in HacKit by clicking, Open Story from URL... (⇧⌘O) menu option.
@@ -41,10 +40,9 @@ The app was developed by a British macOS and iOS developer during the Coronaviru
 
 # Screenshots
 
-<img width="1680" alt="A screenshot of HacKit in light appearance" src="https://user-images.githubusercontent.com/39738481/133911009-868575d9-116e-4fdc-946f-71128fc2e784.png">
+<img width="1680" alt="A screenshot of HacKit in light appearance" src="https://user-images.githubusercontent.com/39738481/136706111-b28f98ba-d36f-4a38-b08e-060ff0f20014.png">
 
-<img width="1680" alt="A screenshot of HacKit in dark appearance" src="https://user-images.githubusercontent.com/39738481/133911011-9f74d28c-5a94-4e0c-8e73-c97de5ca929a.png">
-
+<img width="1680" alt="A screenshot of HacKit in dark appearance" src="https://user-images.githubusercontent.com/39738481/136706117-ef96e3a0-8d46-4aa9-92cf-12e8062e8ac6.png">
 
 # App Icon
 Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
@@ -55,7 +53,7 @@ Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
 | Platform | macOS 11 Big Sur or later  |
 | Framework | AppKit (Cocoa) |
 | Language | Swift 5.4 |
-| App Version | 2.0 |
+| App Version | 2.1 |
 
 # Keyboard Shortcuts
 | Shortcut | Action |
@@ -86,9 +84,13 @@ You can also drag and drop the browser URL. Works in Mozilla Firefox too.
 # Services
 HacKit supports `Services`. You can enable it in `System Preferences > Keyboard > Shortcuts > Services > Open in HacKit`.
 
-![HacKit Services](https://user-images.githubusercontent.com/39738481/114905081-75537080-9e10-11eb-8dd6-3a2f9593ce18.png)
+<div align="center">
+<img width="867" alt="Open in HacKit in Services menu" src="https://user-images.githubusercontent.com/39738481/136706707-887a1e6a-2a65-46a6-a98a-8cddf838bb56.png">
+</div>
 
-<img width="780" alt="System Preferences Keyboard Shortcuts Settings" src="https://user-images.githubusercontent.com/39738481/115155301-2fe4ac80-a077-11eb-9a0c-283cfef4dd07.png">
+<div align="center">
+<img width="780" alt="System Preferences Keyboard Shortcuts Settings" src="https://user-images.githubusercontent.com/39738481/136706909-7f5284b0-10e0-44d4-988e-02186a421ac6.png">
+</div>
 
 Once you ticked it, it will appear anywhere contextually when dealing with text. You highlight the text and go to `[App Name] > Services > Open in HacKit`. You can also access the `Services` menu by right-clicking the text.
 
