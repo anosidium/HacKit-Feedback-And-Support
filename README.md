@@ -53,7 +53,7 @@ Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
 | Platform | macOS 11 Big Sur or later  |
 | Framework | AppKit (Cocoa) |
 | Language | Swift 5.4 |
-| App Version | 2.1 |
+| App Version | 2.2 |
 
 # Keyboard Shortcuts
 | Shortcut | Action |
