@@ -10,7 +10,11 @@
 
 <a href="https://apps.apple.com/gb/app/hackit/id1549557075?mt=12&amp;itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1611187200&h=3b59f4d305e8593fb008bec3dfd268f4" alt="Download on the Mac App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 
-Requires macOS 11 Big Sur or later and natively supports Apple Silicon M1 Mac computers.
+Requires macOS Big Sur or later and natively supports Apple Silicon Mac computers.
+
+# TestFlight
+
+HacKit 3.0 is in development and is available on [TestFlight](https://testflight.apple.com/join/lJyZPVGl). It requires macOS Monterey or later.
 
 # Synopsis
 
@@ -18,7 +22,7 @@ HacKit is a portmanteau of Hacker News and `AppKit` which means it is a `Cocoa` 
 
 It is a reader for <a href="https://news.ycombinator.com">Hacker News</a>, so that means you can read stories, comments and view polls from the website and can also search stories and polls.
 
-The app was developed by a British macOS and iOS developer during the Coronavirus pandemic. He started it last year in 2020. The first iteration of HacKit was developed for `macOS Catalina` and went through a number of iterations and then rebuilt completely from scratch for `macOS Big Sur`.
+The app was developed by a British macOS and iOS developer during the Coronavirus pandemic. He started it in 2020. The first iteration of HacKit was developed for `macOS Catalina` and went through a number of iterations and then rebuilt completely from scratch for `macOS Big Sur`.
 
 # Features
 
@@ -50,10 +54,10 @@ Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
 # Technical Information
 | Key | Detail |
 |--|--|
-| Platform | macOS 11 Big Sur or later  |
+| Platform | macOS Big Sur or later  |
 | Framework | AppKit (Cocoa) |
 | Language | Swift 5.4 |
-| App Version | 2.2 |
+| App Version | 2.4 |
 
 # Keyboard Shortcuts
 | Shortcut | Action |
