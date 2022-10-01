@@ -10,7 +10,7 @@
 
 <a href="https://apps.apple.com/gb/app/hackit/id1549557075?mt=12&amp;itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1611187200&h=3b59f4d305e8593fb008bec3dfd268f4" alt="Download on the Mac App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 
-Requires macOS Big Sur or later and natively supports Apple Silicon Mac computers.
+Requires macOS Monterey or later and natively supports Apple Silicon Mac computers.
 
 # TestFlight
 
@@ -29,6 +29,9 @@ The app was developed by a British macOS and iOS developer during the Coronaviru
 - Supports Touch Bar with customisations.
 - Customisable unified toolbar.
 - <a href="#keyboard-shortcuts">Keyboard shortcuts</a>.
+- Track stories and manage them in folders.
+- Mark stories as read (or unread), favourite (or unfavourite) stories and hide (or unhide) stories.
+- Folder management.
 - Re-order sidebar categories by drag and drop.
 - Adjustable font size for stories list and story.
 - Supports Dark mode. Choose system appearance (automatic) or set a preferred appearance.
@@ -44,9 +47,9 @@ The app was developed by a British macOS and iOS developer during the Coronaviru
 
 # Screenshots
 
-<img width="1680" alt="A screenshot of HacKit in light appearance" src="https://user-images.githubusercontent.com/39738481/136706111-b28f98ba-d36f-4a38-b08e-060ff0f20014.png">
+<img width="1680" alt="A screenshot of HacKit in light appearance" src="https://user-images.githubusercontent.com/39738481/193149531-9932abdb-fb37-4eec-aeb3-b7462e2457dc.png">
 
-<img width="1680" alt="A screenshot of HacKit in dark appearance" src="https://user-images.githubusercontent.com/39738481/136706117-ef96e3a0-8d46-4aa9-92cf-12e8062e8ac6.png">
+<img width="1680" alt="A screenshot of HacKit in dark appearance" src="https://user-images.githubusercontent.com/39738481/193149600-37b9f7a8-8f80-4d78-bb5e-daa390e2773e.png">
 
 # App Icon
 Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
@@ -54,10 +57,10 @@ Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
 # Technical Information
 | Key | Detail |
 |--|--|
-| Platform | macOS Big Sur or later  |
+| Platform | macOS Monterey or later  |
 | Framework | AppKit (Cocoa) |
-| Language | Swift 5.4 |
-| App Version | 2.4 |
+| Language | Swift 5.7 |
+| App Version | 3.0 |
 
 # Keyboard Shortcuts
 | Shortcut | Action |
@@ -65,6 +68,7 @@ Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
 | ⌥⌘N | New Main Window |
 | ⌘O | Open the story in a separate window |
 | ⇧⌘O | Open a story from a URL |
+| ⇧⌘N | New Folder |
 | ⌥⌘F | Search Stories and Polls |
 | ⌥⇧⌘F | Search Stories and Polls in Current Category… |
 | ⌘J | Jump to the selected story |
@@ -103,7 +107,11 @@ Here is a GIF showing how it works.
 ![1234](https://user-images.githubusercontent.com/39738481/114323903-48a50d80-9b1f-11eb-8ea2-588f56b4677c.gif)
 
 # Privacy Policy
-No data is collected, stored, processed or even shared with third-parties.
+HacKit does not collect personal data.
+
+HacKit uses [TelemetryDeck](https://telemetrydeck.com) for anonymous analytics to learn about the app usage and the frequency of the features used, operating system version, language preference, device model etc. This helps to understand how the HacKit is used and to make future development decisions.
+
+Data is not passed nor sold to third-parties.
 
 If you have any questions, please get in touch on GitHub by creating an issue.
 
