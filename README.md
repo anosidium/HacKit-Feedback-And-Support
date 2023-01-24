@@ -12,10 +12,6 @@
 
 Requires macOS Monterey or later and natively supports Apple Silicon Mac computers.
 
-# TestFlight
-
-HacKit 3.0 is in development and is available on [TestFlight](https://testflight.apple.com/join/lJyZPVGl). It requires macOS Monterey or later.
-
 # Synopsis
 
 HacKit is a portmanteau of Hacker News and `AppKit` which means it is a `Cocoa` app and made exactly for the Mac. It is not a `Catalyst` app nor is it a port of an iPhone nor an iPad app. It is a Mac first app.
@@ -47,9 +43,9 @@ The app was developed by a British macOS and iOS developer during the Coronaviru
 
 # Screenshots
 
-<img width="1680" alt="A screenshot of HacKit in light appearance" src="https://user-images.githubusercontent.com/39738481/193149531-9932abdb-fb37-4eec-aeb3-b7462e2457dc.png">
+<img width="1680" alt="A screenshot of HacKit in light appearance" src="https://user-images.githubusercontent.com/39738481/214157364-ea5b09ba-2890-4a36-9707-d32a1b7fc420.png">
 
-<img width="1680" alt="A screenshot of HacKit in dark appearance" src="https://user-images.githubusercontent.com/39738481/193149600-37b9f7a8-8f80-4d78-bb5e-daa390e2773e.png">
+<img width="1680" alt="A screenshot of HacKit in dark appearance" src="https://user-images.githubusercontent.com/39738481/214157402-194e4f5c-4f8b-48fd-b5af-2951f19efc53.png">
 
 # App Icon
 Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
@@ -59,8 +55,8 @@ Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
 |--|--|
 | Platform | macOS Monterey or later  |
 | Framework | AppKit (Cocoa) |
-| Language | Swift 5.7 |
-| App Version | 3.0 |
+| Language | Swift 5.7.2 |
+| App Version | 3.1 |
 
 # Keyboard Shortcuts
 | Shortcut | Action |
@@ -73,6 +69,7 @@ Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
 | ⌥⇧⌘F | Search Stories and Polls in Current Category… |
 | ⌘J | Jump to the selected story |
 | ⌃⌘S | Hide/Show sidebar |
+| ⌘L | Filter stories |
 | ⌘R | Refresh stories |
 | ⌥⌘R | Refresh story |
 | ⌘T | Jump to the top of the stories |
