@@ -43,9 +43,9 @@ The app was developed by a British macOS and iOS developer during the Coronaviru
 
 # Screenshots
 
-<img width="1680" alt="A screenshot of HacKit in light appearance" src="https://github.com/anosidium/HacKit-Feedback-And-Support/assets/39738481/6e921406-2008-4f24-a4b2-1da5dd9e27af">
+<img width="1710" alt="A screenshot of HacKit in light appearance" src="https://github.com/user-attachments/assets/c961b37e-2f9a-418b-8866-bb1db5e8c23e">
 
-<img width="1680" alt="A screenshot of HacKit in dark appearance" src="https://github.com/anosidium/HacKit-Feedback-And-Support/assets/39738481/197fa663-c86b-4230-8147-73c0a7badc91">
+<img width="1710" alt="A screenshot of HacKit in dark appearance" src="https://github.com/user-attachments/assets/0199355f-c163-49ad-9962-fe6253849966">
 
 # App Icon
 Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
@@ -53,10 +53,10 @@ Designed by the talented <a href="https://yannicklung.com">Yannick Lung</a>.
 # Technical Information
 | Key | Detail |
 |--|--|
-| Platform | macOS Monterey or later  |
+| Platform | macOS 12 Monterey or later  |
 | Framework | AppKit (Cocoa) |
-| Language | Swift 5.8.1 |
-| App Version | 3.3 |
+| Language | Swift 5.10 |
+| App Version | 3.5 |
 
 # Keyboard Shortcuts
 | Shortcut | Action |
