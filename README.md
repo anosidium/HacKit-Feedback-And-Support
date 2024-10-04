@@ -3,14 +3,14 @@
   <h1>HacKit</h1>
   <p>A native macOS Cocoa app for reading <a href="https://news.ycombinator.com">Hacker News</a></p>
   <p>Developed by Ammad</p>
-  <p>Made with ❤️ in London, England, UK</p>
+  <p>Made with ♥ in London, England, UK</p>
 </div>
 
 # Download
 
 <a href="https://apps.apple.com/app/id1549557075" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://github.com/user-attachments/assets/9a9f903f-2907-4695-8bde-eac988d6b4e8" alt="Download on the Mac App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 
-Requires macOS Monterey or later and natively supports Apple Silicon Mac computers.
+Requires macOS 12 Monterey or later and natively supports Apple Silicon Mac computers.
 
 # Synopsis
 
